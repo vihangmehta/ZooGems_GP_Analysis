@@ -1,0 +1,8 @@
+# Computing ATMOSPHERIC AND GALACTIC EXTINCTION #
+# FILTER_FILE : /data/highzgal/mehta/Software/lephare/lephare_work/filt/GP_Zoo.filt
+# EXT_CURVE   : NONE
+# GAL_CURVE   : CARDELLI law
+# OUTPUT      : extinction/GP_Zoo.extinc
+#Filters Ext(mag/airmass) Albda/Av Albda/E(B-V) 
+F555w         99.990     1.036     3.211
+F850lp        99.990     0.481     1.491
